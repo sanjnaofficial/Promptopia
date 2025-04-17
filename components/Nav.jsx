@@ -20,8 +20,8 @@ const Nav = () => {
   return (
     <nav className="flex-between w-full mb-16 pt-3">
       <Link href="/" className="flex flex-center gap-2">
-        <Image src="/assets/images/logo.svg" alt="Promptopia Logo" width={30} height={30} className="object-contain"/>
-        <p className="logo_text">Promptopia</p>
+        <Image src="/assets/images/logo.svg" alt="PromptPal Logo" width={30} height={30} className="object-contain"/>
+        <p className="logo_text">PromptPal</p>
       </Link>
       {/* Desktop navigation */}
       <div className="sm:flex hidden">
